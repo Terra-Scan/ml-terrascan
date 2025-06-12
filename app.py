@@ -1,5 +1,4 @@
 import streamlit as st
-import tensorflow as tf
 import numpy as np
 from PIL import Image
 from mapping_info import soil_info
