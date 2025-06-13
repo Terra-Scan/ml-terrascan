@@ -62,7 +62,7 @@ machine-learning/
 ├── app.py                 # The Streamlit app for interacting with the model.
 ├── labels.txt             # A text file containing the class labels for predictions.
 ├── mapping_info.py        # Script to map image data to labels and class information.
-├── model_terrascan.h5     # The trained Keras model (saved after training).
+├── model_terrascan.keras    # The trained Keras model (saved after training).
 ├── requirements.txt       # List of Python libraries needed to run the project.
 ├── split_dataset.py       # Script to split the dataset into training and testing.
 ├── train_model.ipynb      # Jupyter notebook for training the model.
@@ -99,7 +99,7 @@ The model is trained on a dataset of images. We use TensorFlow's Keras API to de
 - `dataset_split/`: Folder containing the split dataset with training and testing subfolders for image data.
 - `split_dataset.py`: Python script to split the dataset into training and validation sets.
 - `requirements.txt`: List of Python libraries needed to run the project.
-- `model_terrascan.h5`: The saved Keras model after training.
+- `model_terrascan.keras`: The saved Keras model after training.
 - `labels.txt`: A file containing the class labels.
 - `mapping_info.py`: A Python script for mapping image data to class labels for training and predictions.
 - `train_model.ipynb`: Jupyter notebook containing the code for training, evaluating, and saving the model.
