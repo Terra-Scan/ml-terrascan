@@ -2,6 +2,10 @@
 
 Welcome to the TerraScan Machine Learning repository! This project focuses on classifying images using a Convolutional Neural Network (CNN) built with TensorFlow and Keras. The project leverages Streamlit for the user interface, allowing easy interaction with the model through a web app.
 
+# Check our produtcs here
+
+https://project-terra.streamlit.app/
+
 ## Table of Contents
 
 - [Project Description](#project-description)
